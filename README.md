@@ -1,6 +1,9 @@
 # delete-duplicate-downloads-alfred3
 An Alfred3 workflow for deleting duplicate download files and directories from your /Downloads directory that are taking up extra space for no reason.
 
+### USAGE
+Invoke Alfred and type `ddd`. You will hear a sonar ping when workflow is complete.
+
 ### WARNING
 This Alfred3 uses a simple bash cmd with this structure:
 ```
